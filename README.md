@@ -1,5 +1,12 @@
 # Digital Evidence Chain-of-Custody Manager
 
+## Author
+
+**Komal Pisey**  
+B.Tech CSE (Cyber Security and Digital Forensics)  
+VIT Bhopal University  
+Registration No.: 24BCY10303
+
 ## Overview
 
 Digital Evidence Chain-of-Custody Manager is a Java-based command-line
